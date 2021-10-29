@@ -15,5 +15,22 @@ According to Crunchbase, XYO raised a total of $13.6 million in funding over 1 r
 <br><br>
 ### Business Activities
 According to their whitepaper, the largest challenge faced in eliminating the need for centralized entities controlling the flow of location data, is that prior attempts relied on the integrity of the devices collecting data. And because certainty and accuracy of locations are negatively impacted by the lack of a trustless decentralized location oracle, almost every other platform has focused on the digital online world. XYO is working towards allowing more developers to interact with the physical world by providing a decentralized oracle network.  
+<br><br>
+Customer is a little difficult to define as it varies. Through their coin app, they collect geospatial data from users, and reward them with coin that can be traded in for XYO tokens, ETH, or BTC.  And while typically, one doesn't "pay" their "customers", XYO offers upgraded accounts for a monthly fee for the users to be able to collect more COIN in the app.  XYO also sells hardward devices that synch up with the app, (devices created by Arie Trouw's prior company XY, founded in 2012). A clever way to monetize their users, turning them into customers. 
+<br><br>
+I believe the intended customer is larger companies, to be able to leverage the network they've created for geopositional services, as well as acting as an oracle for geolocated smart contracts.  
+<br>
+Current Partners include RE/Max, FedEx institute of Technology, Microsoft partner Network, Chainlink, and more...
+<br>
+Potential industries that could be impacted include anything with a supply chain, businesses with company vehicles including delivery/drones/self driving vehicles, location based gaming, airline baggage tracking, and Real Estate.
+<br>
+### Technology
+The XYO Network consists of 4 main parts:<br><br>
+A [Sentinal](https://xyo.network/network/sentinel/) to cross paths and save data.<br>
+A [Bridge](https://xyo.network/network/bridge/) to transfer the data somewhere safe.<br>
+An [Archivist](https://xyo.network/network/archivist/) to store and encrypt the data.<br>
+And a [Diviner](https://xyo.network/network/diviner/), to be able to ask and receive data from the network. <br>
 
-Customer is a little difficult to define as it varies. Through their coin app, they collect geospatial data from users, and reward them with coin that can be traded in for XYO tokens, ETH, or BTC.  And while typically, one doesn't "pay" their "customers", XYO offers upgraded accounts for a monthly fee for the users to be able to collect more COIN in the app.  XYO also sells hardward devices that synch up with the app, (devices created by Arie Trouw's prior company XY founded in 2012).
+
+### Recommendations
+Focus more on your relationship with ReMax.  The title insurance industry alone is a $21 billion industry in the US. And the path won't be found through regulators who don't care if you save them money or not.  It needs to be demanded from constituents.  I believe going through Realtors, partnering with their associations, and creating an app to reward them as Sentinels, as travel is a large part of the job.
