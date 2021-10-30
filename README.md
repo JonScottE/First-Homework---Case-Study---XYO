@@ -33,4 +33,4 @@ And a [Diviner](https://xyo.network/network/diviner/), to be able to ask and rec
 
 
 ### Recommendations
-Focus more on your relationship with ReMax.  The title insurance industry alone is a $21 billion industry in the US. And the path won't be found through regulators who don't care if you save them money or not.  It needs to be demanded from constituents.  I believe going through Realtors, partnering with their associations, and creating an app to reward them as Sentinels, as travel is a large part of the job.
+XYO needs to focus more on their relationship with ReMax.  The title insurance industry alone is a $21 billion industry in the US. And the path won't be found through regulators who don't care if you save them money or not.  It needs to be demanded from their constituents.  I believe going through Realtors, partnering with their associations, and creating an app to reward them as Sentinels, as travel is a large part of the job, is the best path app adoption, and eventually real world use and functionality.
